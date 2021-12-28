@@ -1,0 +1,9 @@
+* {
+    position: relative;
+    margin:0;
+    border:0;
+    box-sizing: border-box;
+    background-color: #222831;
+    color: #eee;
+    font-family: "Montserrat", sans-serif;
+}
