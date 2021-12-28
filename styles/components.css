@@ -43,6 +43,16 @@
     }
 }
 
+@media (max-width: 420px) {
+    #intro{
+        width:90%;
+    }
+
+    #content{
+        width:95%;
+    }
+}
+
 #signatures {
     
 }

@@ -14,7 +14,6 @@
     color: #eee;
 }
 
-
 #signature button {
     border: 0;
     margin: 1rem 2rem;
@@ -23,4 +22,29 @@
 
 #signature a {
     text-decoration: none;
+}
+
+@media (max-width: 420px) {
+    
+
+    #signature button {
+        margin: 0.5rem 1.8rem;
+    }
+
+    #signature p {
+        margin-top: 1rem;
+        
+    }
+
+    .hline {
+        width: 50%;
+        margin: auto;
+        margin-bottom: 1rem;
+        
+    }
+
+    #signature hr {
+        border:0;
+        border-top: 1px white solid;
+    }
 }
